@@ -338,28 +338,4 @@ body{
     -webkit-transform:rotate(70deg);
   }
   
-  @keyframes sube{
-    0%{margin:0px 0px;}
-    100%{margin:21px 0px;}
-  }
-  @-moz-keyframes sube{
-    0%{margin:0px 0px;}
-    100%{margin:21px 0px;}
-  }
-  @-webkit-keyframes sube{
-    0%{margin:0px 0px;}
-    100%{margin:21px 0px;}
-  }
   
-  @keyframes sube3{
-    0%{  margin:132px 251px;}
-    100%{  margin:121px 251px;}
-  }
-  @-moz-keyframes sube3{
-    0%{  margin:132px 251px;}
-    100%{  margin:121px 251px;}
-  }
-  @-webkit-keyframes sube3{
-    0%{  margin:132px 251px;}
-    100%{  margin:121px 251px;}
-  }
